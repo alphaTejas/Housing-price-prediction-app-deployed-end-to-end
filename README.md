@@ -1,1 +1,1 @@
-# Housing-price-prediction-app-deployed-end-to-end-on-streamlit
+# Housing price-prediction app deployed end to end on streamlit
